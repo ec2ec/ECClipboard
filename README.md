@@ -10,6 +10,6 @@
 ## v2特色功能
 选中文档数值，进行计算，或者求和
 
-![效果图](https://github.com/ec2ec/ECClipboard/raw/master/capture_selectcalc.png)
+![效果图](https://github.com/ec2ec/ECClipboard/raw/master/capture_selectcalc.gif)
 
 > for win7
