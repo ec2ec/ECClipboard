@@ -11,3 +11,5 @@
 选中文档数值，进行计算，或者求和
 
 ![效果图](https://github.com/ec2ec/ECClipboard/raw/master/capture_selectcalc.png)
+
+> for win7
