@@ -7,12 +7,7 @@
 
 ![效果图](https://github.com/ec2ec/ECClipboard/raw/master/capture.png)
 
-<<<<<<< HEAD
 ## v2特色功能
 选中文档数值，进行计算，或者求和
 
 ![效果图](https://github.com/ec2ec/ECClipboard/raw/master/capture_selectcalc.png)
-=======
-
-
->>>>>>> cb7cc33ba12bab57510efef60d5a0f4930d5de7b
